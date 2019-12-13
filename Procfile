@@ -1,0 +1,1 @@
+web: gunicorn deploy_rating_prediction:app
